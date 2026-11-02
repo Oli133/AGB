@@ -1,0 +1,6 @@
+{
+  "name": "HyperGame",
+  "description": "FPS booster, ping reducer, system RAM optimizer, battery saver, and gaming profile switcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
